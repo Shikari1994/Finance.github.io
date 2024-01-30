@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Finance.github.io/static/css/main.4a054e1c.css",
+    "main.js": "/Finance.github.io/static/js/main.fcad18ea.js",
+    "index.html": "/Finance.github.io/index.html",
+    "main.4a054e1c.css.map": "/Finance.github.io/static/css/main.4a054e1c.css.map",
+    "main.fcad18ea.js.map": "/Finance.github.io/static/js/main.fcad18ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4a054e1c.css",
+    "static/js/main.fcad18ea.js"
+  ]
+}
