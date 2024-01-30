@@ -7,7 +7,7 @@ const css = {
     align-items: center;
     justify-content: flex-start;
     position: relative;
-    width: 600px;
+    width: 500px;
     height: auto;
     min-height: 60px;
     border-radius: 10px;

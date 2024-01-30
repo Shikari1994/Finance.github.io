@@ -11,8 +11,8 @@ const css = {
     flex-direction: row;
     align-items: center;
     justify-content: space-between;
-    position: sticky;
-    width: 100%;
+    position: static;
+    width: 900px;
     height: 100px;
     
     padding: 0px 300px;
